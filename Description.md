@@ -5,11 +5,11 @@
 The world of cinema is a treasure trove of stories, genres, and experiences, all captured on the silver screen. In our project, "CineData Insights with PySpark" we embark on a data-driven journey to decode the secrets hidden within the vast universe of movies. By harnessing the power of data analysis and leveraging PySpark, we've unearthed valuable insights that illuminate various facets of the film industry.
 
 
-## a) Key Questions Explored:
+### a) Key Questions Explored:
 
 Our project delves deep into a diverse array of questions, unraveling the intricacies of the movie landscape:
 
-###    i) Revenue Insights:
+#####    i) Revenue Insights:
         How has the movie industry's financial landscape evolved over time?
         How many movies each year managed to generate revenue exceeding $500 million, showcasing blockbuster status?
 
