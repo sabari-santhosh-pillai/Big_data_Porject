@@ -55,4 +55,3 @@ Join us as we unravel the mysteries of the movie world, one data point at a time
 
 ## Project Workflow: CineData Insights with PySpark
 ![GitHub Logo](images/collage.jpg)
-
