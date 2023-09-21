@@ -5,7 +5,7 @@
 The world of cinema is a treasure trove of stories, genres, and experiences, all captured on the silver screen. In our project, "CineData Insights with PySpark" we embark on a data-driven journey to decode the secrets hidden within the vast universe of movies. By harnessing the power of data analysis and leveraging PySpark, we've unearthed valuable insights that illuminate various facets of the film industry.
 
 
-### a) Key Questions Explored:
+### 1) Key Questions Explored:
 
 Our project delves deep into a diverse array of questions, unraveling the intricacies of the movie landscape:
 
@@ -36,17 +36,17 @@ Our project delves deep into a diverse array of questions, unraveling the intric
         How many movies each year garnered a vote count exceeding 1000, indicating substantial audience engagement?
 
 
-### b)Methodology:
+### 2)Methodology:
 
 To address these questions, we harnessed the power of PySpark, a formidable tool for big data analysis. Our project leveraged data filtering, aggregation, and visualization to distill meaningful insights from a vast dataset of movie information.
 
 
-### c)Organization of the Project:
+### 3)Organization of the Project:
 
 This project is meticulously organized to provide a clear presentation of our findings. We've structured our analysis, visualization, and interpretation to offer a comprehensive exploration of the movie industry's various dimensions. As we journey through revenue trends, genre preferences, language diversity, and more, we aim to paint a vivid picture of cinema's ever-evolving landscape.
 
 
-### d)Audience:
+### 4)Audience:
 
 Our project invites a diverse audience, including movie enthusiasts, data analysts, and curious minds eager to uncover the captivating stories hidden within data. We believe that data-driven insights can enrich our appreciation of cinema, offering a fresh perspective on the art of storytelling through film.
 
