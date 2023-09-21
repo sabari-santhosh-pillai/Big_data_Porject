@@ -54,5 +54,6 @@ Join us as we unravel the mysteries of the movie world, one data point at a time
 
 
 ## Project Workflow: CineData Insights with PySpark
-![GitHub Logo](images/collage.jpg)
+![collage](https://github.com/sabari-santhosh-pillai/Big_data_Project/assets/133002299/0066f1d1-3faa-4493-9375-1b6f4473d326)
+
 
