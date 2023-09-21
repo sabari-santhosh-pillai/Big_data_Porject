@@ -1,7 +1,7 @@
 #                                                                                       CineData Insights with PySpark
 
 
-# Introduction:
+## Introduction:
 The world of cinema is a treasure trove of stories, genres, and experiences, all captured on the silver screen. In our project, "CineData Insights with PySpark" we embark on a data-driven journey to decode the secrets hidden within the vast universe of movies. By harnessing the power of data analysis and leveraging PySpark, we've unearthed valuable insights that illuminate various facets of the film industry.
 
 
@@ -53,5 +53,5 @@ Our project invites a diverse audience, including movie enthusiasts, data analys
 Join us as we unravel the mysteries of the movie world, one data point at a time, and rediscover the magic that makes cinema a universal language.
 
 
-# Project Workflow: CineData Insights with PySpark
+## Project Workflow: CineData Insights with PySpark
 
